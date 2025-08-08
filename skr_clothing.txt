@@ -1,0 +1,1 @@
+{"version":"1.0.1", "notes":"Added option to disable each command, version checker and some fixes", "release_date":{"day":8,"month":8,"year":2025}}
